@@ -1,0 +1,10 @@
+config
+main
+media
+venv
+
+media
+
+db.sqlite3
+pycache
+migrations
